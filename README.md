@@ -1,40 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a README. It's intended to be read by humans and provide a high-level overview of the project. It should be written in Markdown format. 
 
-## Getting Started
+This project is intended to slowly introduce you to the world of web development. It will start with the basics and slowly build up to more complex topics.
 
-First, run the development server:
+The project is broken up into multiple sections. Each section will cover a different topic. The sections are as follows:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Introduction to programming
+2. Introduction to HTML
+3. Introduction to CSS
+4. Introduction to JavaScript
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Let's get started! 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Introduction to programming
+This section will cover the basics of programming. It will introduce you to the fundamental concepts that are used in all programming languages.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Introduction to HTML
+This section will cover the basics of HTML. It will introduce you to the structure of an HTML document and how to create basic web pages.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Introduction to CSS
+This section will cover the basics of CSS. It will introduce you to how to style your HTML documents and make them look good.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Introduction to JavaScript
+This section will cover the basics of JavaScript. It will introduce you to how to add interactivity to your web pages.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+To get started, find the file called `programming.js` in the `src` directory. This file contains the first exercise for the Introduction to programming section. Follow the instructions in the file to complete the exercise. Once you've completed the exercise, move on to the next section.

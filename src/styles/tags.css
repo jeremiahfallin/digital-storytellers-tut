@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: darkblue;
+}
+
+p {
+  color: black;
+  margin: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid rebeccapurple;
+}
+
+a {
+  color: blue;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+ol {
+  list-style-type: none;
+}
